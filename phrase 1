@@ -1,15 +1,25 @@
 Brainstorming: Write down at least three ideas for datasets. Include as much information as possible about the availability of data.
 
-Our team met on Zoom to discuss and brainstorm ideas for datasets. We wanted something that is relevent to our life and have a certain level of complecity that allow us to carefully analyze. Below are some of the dataset ideas that we talked about.
+Our team met on Zoom to discuss and brainstorm ideas for datasets. We wanted something that is relevant to our lives and has a certain level of complexity that allows us to carefully analyze. Below are some of the dataset ideas that we talked about.
 
-1. covid-19
-This is a topic that all of us are interested in and is very relevent to our life right now. There are a few areas that we want to investigate, for instance, how many people wear mask and how it relates to their educational level; confirmed cases and regions; correlation between mortality rate and the strength of local healthcare system; government policy.
+1. COVID-19
+This is a topic that all of us are interested in and is very relevant to our life right now. There are a few areas that we want to investigate; for instance, the relationship between mortality rate and medical care coverage, wealth distribution, population demographics (age breakdown), healthcare expenditure (hospital concentration, medical equipment, number of physicians, testing coverage, etc), eating and lifestyle habits, government policy, GDP per capita, a country’s developing extent.  
+We found some data sources and below are the links:
+Death rate: https://ourworldindata.org/coronavirus
+Hospital finance: https://ourworldindata.org/financing-healthcare#all-charts-preview
+Demographics: https://ourworldindata.org/age-structure
+# of physicians and hospital beds: https://data.worldbank.org/indicator/SH.MED.PHYS.ZS?end=2018&start=2018&type=shaded&view=map&year=2014
+** since we can’t find data for every country, we will focus on some countries and conduct analysis on them. 
+Note: 
+Possible errors: news transparency; the spread of rural and urban areas;  
 
-2. food preference - college students
-College 15 is a concern for a lot of college students. We want to understand the reasons behind it and develop suggestions for students who are currently struggling this eating disroder. So, we want to look at students' food choices to find information about calories, veg types, nutritions, exercise level, gender, diets, and drinks. 
+2. Food preference - college students
+College 15 is a concern for a lot of college students. We want to understand the reasons behind it and develop suggestions for students who are currently struggling with this eating disorder. So, we want to look at students' food choices to find information about calories, veg types, nutrition, exercise level, gender, diets, and drinks. Data can be found on Kaggle.
 
-3. real and fake news
-We interact with social media everyday, especially during this time when everyone is practising social distancing. There are a lot news about the covid-19, presidential election, and new policies showing up on our feeds. It is hard for the users to tell whether a news is true or not, so we want to investigate the % of fake news on selected social media; how many people believe it; what are some common topics; how fast can a fake news spread; what are some of the influences.
+3. Real and fake news
+We interact with social media every day, especially during this time when everyone is practicing social distancing. There is a lot of news about the COVID-19, presidential election, and new policies showing up on our feeds. It is hard for the users to tell whether a piece of news is true or not, so we want to investigate the % of fake news on selected social media; how many people believe it; what are some common topics; how fast can a fake news spread; what are some of the influences. Data can be found on Kaggle.
 
-4. online shopping
-Since all the malls and retail stores are closed right now. We are expecting to see a surge in online shopping. So, data about amount of users, user shopping behavior, regions, socioeconomic status, etc. would be exciting to analyze. 
+4. Online shopping
+Since all the malls and retail stores are closed right now. We are expecting to see a surge in online shopping. So, data about the number of users, user shopping behavior, regions, socioeconomic status, and etc. would be exciting to analyze. There is relatively less data on this topic, making it harder to analyze. 
+
+
