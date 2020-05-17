@@ -1,0 +1,202 @@
+,Entity,Code,Date,Total_confirmed_cases,Continent
+54,Afghanistan,AFG,29-Apr-20,1827,AS
+181,Albania,ALB,29-Apr-20,750,EU
+240,Algeria,DZA,29-Apr-20,3649,AF
+287,Andorra,AND,29-Apr-20,748,EU
+326,Angola,AGO,29-Apr-20,27,AF
+360,Anguilla,AIA,29-Apr-20,3,NA
+401,Antigua and Barbuda,ATG,29-Apr-20,24,NA
+455,Argentina,ARG,29-Apr-20,4114,SA
+506,Armenia,ARM,29-Apr-20,1932,AS
+544,Aruba,ABW,29-Apr-20,100,NA
+869,Australia,AUS,29-Apr-20,6738,OC
+933,Austria,AUT,29-Apr-20,15314,EU
+987,Azerbaijan,AZE,29-Apr-20,1717,AS
+1030,Bahamas,BHS,29-Apr-20,80,NA
+1095,Bahrain,BHR,29-Apr-20,2811,AS
+1141,Bangladesh,BGD,29-Apr-20,6462,AS
+1184,Barbados,BRB,29-Apr-20,80,NA
+1238,Belarus,BLR,29-Apr-20,12208,EU
+1324,Belgium,BEL,29-Apr-20,47334,EU
+1361,Belize,BLZ,29-Apr-20,18,NA
+1405,Benin,BEN,29-Apr-20,64,AF
+1446,Bermuda,BMU,29-Apr-20,110,NA
+1493,Bhutan,BTN,29-Apr-20,7,AS
+1541,Bolivia,BOL,29-Apr-20,1053,SA
+1589,Bosnia and Herzegovina,BIH,29-Apr-20,1588,EU
+1618,Botswana,BWA,29-Apr-20,23,AF
+1682,Brazil,BRA,29-Apr-20,71886,SA
+1716,British Virgin Islands,VGB,29-Apr-20,6,NA
+1766,Brunei,BRN,29-Apr-20,138,AS
+1817,Bulgaria,BGR,29-Apr-20,1399,EU
+1865,Burkina Faso,BFA,29-Apr-20,638,AF
+1894,Burundi,BDI,29-Apr-20,15,AF
+1978,Cambodia,KHM,29-Apr-20,122,AS
+2026,Cameroon,CMR,29-Apr-20,1806,AF
+2121,Canada,CAN,29-Apr-20,50015,NA
+2161,Cape Verde,CPV,29-Apr-20,113,AF
+2202,Cayman Islands,CYM,29-Apr-20,70,NA
+2247,Central African Republic,CAF,29-Apr-20,50,AF
+2288,Chad,TCD,29-Apr-20,52,AF
+2344,Chile,CHL,29-Apr-20,14365,SA
+2465,China,CHN,29-Apr-20,83940,AS
+2515,Colombia,COL,29-Apr-20,5949,SA
+2560,Congo,COG,29-Apr-20,207,AF
+2613,Costa Rica,CRI,29-Apr-20,705,NA
+2660,Cote d'Ivoire,CIV,29-Apr-20,1183,AF
+2721,Croatia,HRV,29-Apr-20,2047,EU
+2767,Cuba,CUB,29-Apr-20,1437,NA
+2804,Curacao,CUW,29-Apr-20,16,NA
+2853,Cyprus,CYP,29-Apr-20,837,AS
+2912,Czech Republic,CZE,29-Apr-20,7504,EU
+2960,Democratic Republic of Congo,COD,29-Apr-20,491,AF
+3023,Denmark,DNK,29-Apr-20,8851,EU
+3065,Djibouti,DJI,29-Apr-20,1072,AF
+3103,Dominica,DMA,29-Apr-20,16,NA
+3153,Dominican Republic,DOM,29-Apr-20,6416,NA
+3208,Ecuador,ECU,29-Apr-20,24258,SA
+3279,Egypt,EGY,29-Apr-20,5042,AF
+3321,El Salvador,SLV,29-Apr-20,345,NA
+3367,Equatorial Guinea,GNQ,29-Apr-20,315,AF
+3406,Eritrea,ERI,29-Apr-20,39,AF
+3463,Estonia,EST,29-Apr-20,1660,EU
+3510,Ethiopia,ETH,29-Apr-20,126,AF
+3743,Faeroe Islands,FRO,29-Apr-20,187,EU
+3769,Falkland Islands,FLK,29-Apr-20,13,SA
+3810,Fiji,FJI,29-Apr-20,18,OC
+3897,Finland,FIN,29-Apr-20,4740,EU
+3993,France,FRA,29-Apr-20,126835,EU
+4035,French Polynesia,PYF,29-Apr-20,58,OC
+4082,Gabon,GAB,29-Apr-20,238,AF
+4125,Gambia,GMB,29-Apr-20,10,AF
+4185,Georgia,GEO,29-Apr-20,511,AS
+4278,Germany,DEU,29-Apr-20,157641,EU
+4325,Ghana,GHA,29-Apr-20,1671,AF
+4366,Gibraltar,GIB,29-Apr-20,141,EU
+4427,Greece,GRC,29-Apr-20,2534,EU
+4468,Greenland,GRL,29-Apr-20,11,NA
+4506,Grenada,GRD,29-Apr-20,18,NA
+4548,Guam,GUM,29-Apr-20,145,OC
+4594,Guatemala,GTM,29-Apr-20,557,NA
+4635,Guernsey,GGY,29-Apr-20,247,EU
+4681,Guinea,GIN,29-Apr-20,1240,AF
+4715,Guinea-Bissau,GNB,29-Apr-20,73,AF
+4761,Guyana,GUY,29-Apr-20,75,SA
+4802,Haiti,HTI,29-Apr-20,76,NA
+4955,Honduras,HND,29-Apr-20,738,NA
+5010,Hungary,HUN,29-Apr-20,2727,EU
+5071,Iceland,ISL,29-Apr-20,1795,EU
+5161,India,IND,29-Apr-20,31332,AS
+5213,Indonesia,IDN,29-Apr-20,9511,AS
+5311,Iran,IRN,29-Apr-20,92584,AS
+5374,Iraq,IRQ,29-Apr-20,1847,AS
+5432,Ireland,IRL,29-Apr-20,19877,EU
+5472,Isle of Man,IMN,29-Apr-20,309,EU
+5537,Israel,ISR,29-Apr-20,15589,AS
+5627,Italy,ITA,29-Apr-20,201505,EU
+5675,Jamaica,JAM,29-Apr-20,381,NA
+5781,Japan,JPN,29-Apr-20,13852,AS
+5822,Jersey,JEY,29-Apr-20,284,EU
+5870,Jordan,JOR,29-Apr-20,449,AS
+5916,Kazakhstan,KAZ,29-Apr-20,3063,AS
+5963,Kenya,KEN,29-Apr-20,374,AF
+6008,Kosovo,OWID_KOS,29-Apr-20,790,invalid
+6071,Kuwait,KWT,29-Apr-20,3440,AS
+6113,Kyrgyzstan,KGZ,29-Apr-20,729,AS
+6149,Laos,LAO,29-Apr-20,19,AS
+6203,Latvia,LVA,29-Apr-20,836,EU
+6267,Lebanon,LBN,29-Apr-20,717,AS
+6311,Liberia,LBR,29-Apr-20,141,AF
+6347,Libya,LBY,29-Apr-20,61,AF
+6397,Liechtenstein,LIE,29-Apr-20,83,EU
+6450,Lithuania,LTU,29-Apr-20,1449,EU
+6696,Luxembourg,LUX,29-Apr-20,3741,EU
+6750,Macedonia,MKD,29-Apr-20,1421,EU
+6790,Madagascar,MDG,29-Apr-20,128,AF
+6817,Malawi,MWI,29-Apr-20,36,AF
+6912,Malaysia,MYS,29-Apr-20,5851,AS
+6963,Maldives,MDV,29-Apr-20,245,AS
+6998,Mali,MLI,29-Apr-20,424,AF
+7049,Malta,MLT,29-Apr-20,450,EU
+7095,Mauritania,MRT,29-Apr-20,7,AF
+7136,Mauritius,MUS,29-Apr-20,334,AF
+7189,Mexico,MEX,29-Apr-20,16752,NA
+7240,Moldova,MDA,29-Apr-20,3638,EU
+7289,Monaco,MCO,29-Apr-20,95,EU
+7334,Mongolia,MNG,29-Apr-20,38,AS
+7377,Montenegro,MNE,29-Apr-20,321,EU
+7416,Montserrat,MSR,29-Apr-20,11,NA
+7467,Morocco,MAR,29-Apr-20,4252,AF
+7505,Mozambique,MOZ,29-Apr-20,76,AF
+7542,Myanmar,MMR,29-Apr-20,150,AS
+7588,Namibia,NAM,29-Apr-20,16,AF
+7671,Nepal,NPL,29-Apr-20,54,AS
+7733,Netherlands,NLD,29-Apr-20,38416,EU
+7773,New Caledonia,NCL,29-Apr-20,18,OC
+7826,New Zealand,NZL,29-Apr-20,1126,OC
+7868,Nicaragua,NIC,29-Apr-20,13,NA
+7908,Niger,NER,29-Apr-20,709,AF
+7959,Nigeria,NGA,29-Apr-20,1532,AF
+8089,Northern Mariana Islands,MNP,29-Apr-20,14,OC
+8152,Norway,NOR,29-Apr-20,7605,EU
+8307,Oman,OMN,29-Apr-20,2131,AS
+8365,Pakistan,PAK,29-Apr-20,14885,AS
+8417,Palestine,PSE,29-Apr-20,495,AS
+8468,Panama,PAN,29-Apr-20,6200,NA
+8508,Papua New Guinea,PNG,29-Apr-20,8,OC
+8557,Paraguay,PRY,29-Apr-20,239,SA
+8610,Peru,PER,29-Apr-20,31190,SA
+8697,Philippines,PHL,29-Apr-20,7958,AS
+8752,Poland,POL,29-Apr-20,12218,EU
+8810,Portugal,PRT,29-Apr-20,24322,EU
+8843,Puerto Rico,PRI,29-Apr-20,1400,NA
+8899,Qatar,QAT,29-Apr-20,11921,AS
+8960,Romania,ROU,29-Apr-20,11616,EU
+9049,Russia,RUS,29-Apr-20,93558,EU
+9095,Rwanda,RWA,29-Apr-20,212,AF
+9130,Saint Kitts and Nevis,KNA,29-Apr-20,15,NA
+9176,Saint Lucia,LCA,29-Apr-20,15,NA
+9213,Saint Vincent and the Grenadines,VCT,29-Apr-20,16,NA
+9274,San Marino,SMR,29-Apr-20,553,EU
+9295,Sao Tome and Principe,STP,29-Apr-20,11,AF
+9350,Saudi Arabia,SAU,29-Apr-20,20077,AS
+9401,Senegal,SEN,29-Apr-20,823,AF
+9452,Serbia,SRB,29-Apr-20,8497,EU
+9498,Seychelles,SYC,29-Apr-20,11,AF
+9527,Sierra Leone,SLE,29-Apr-20,104,AF
+9624,Singapore,SGP,29-Apr-20,14951,AS
+9677,Slovakia,SVK,29-Apr-20,1384,EU
+9732,Slovenia,SVN,29-Apr-20,1408,EU
+9776,Somalia,SOM,29-Apr-20,528,AF
+9829,South Africa,ZAF,29-Apr-20,4996,AF
+9994,South Korea,KOR,29-Apr-20,10761,AS
+10018,South Sudan,SSD,29-Apr-20,34,AF
+10190,Sri Lanka,LKA,29-Apr-20,619,AS
+10237,Sudan,SDN,29-Apr-20,318,AF
+10278,Suriname,SUR,29-Apr-20,10,SA
+10324,Swaziland,SWZ,29-Apr-20,71,AF
+10413,Sweden,SWE,29-Apr-20,19621,EU
+10477,Switzerland,CHE,29-Apr-20,29181,EU
+10515,Syria,SYR,29-Apr-20,43,AS
+10613,Taiwan,TWN,29-Apr-20,429,AS
+10657,Tanzania,TZA,29-Apr-20,306,AF
+10758,Thailand,THA,29-Apr-20,2938,AS
+10805,Togo,TGO,29-Apr-20,99,AF
+10853,Trinidad and Tobago,TTO,29-Apr-20,116,NA
+10905,Tunisia,TUN,29-Apr-20,975,AF
+10952,Turkey,TUR,29-Apr-20,114653,AS
+10988,Turks and Caicos Islands,TCA,29-Apr-20,12,NA
+11027,Uganda,UGA,29-Apr-20,79,AF
+11074,Ukraine,UKR,29-Apr-20,9410,EU
+11162,United Arab Emirates,ARE,29-Apr-20,11380,AS
+11252,United Kingdom,GBR,29-Apr-20,161145,EU
+11352,United States,USA,29-Apr-20,1012583,NA
+11388,United States Virgin Islands,VIR,29-Apr-20,59,NA
+11555,Uruguay,URY,29-Apr-20,625,SA
+11600,Uzbekistan,UZB,29-Apr-20,1939,AS
+11646,Venezuela,VEN,29-Apr-20,329,SA
+11739,Vietnam,VNM,29-Apr-20,270,AS
+11860,World,OWID_WRL,29-Apr-20,3052370,invalid
+12204,Yemen,YEM,29-Apr-20,1,AS
+12246,Zambia,ZMB,29-Apr-20,95,AF
+12286,Zimbabwe,ZWE,29-Apr-20,32,AF
